@@ -180,5 +180,5 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 ## Contact
 
 For queries, suggestions, or contributions, feel free to reach out:
-- **Email**: your-email@example.com
-- **GitHub Issues**: [Open an Issue](https://github.com/your-repo/conversational-ai-langchain/issues)
+- **Email**: tanuj.mangalapally@gmail.com
+- **Portfolio**: [tanujkumar-portfolio](https://tanujkumar24.github.io/Tanujkumar-portfolio/)
